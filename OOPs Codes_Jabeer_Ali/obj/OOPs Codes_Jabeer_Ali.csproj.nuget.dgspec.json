@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\JabeeraliBankapur\\Desktop\\VISUAL STUDIO\\OOPs Codes_Jabeer_Ali\\OOPs Codes_Jabeer_Ali\\OOPs Codes_Jabeer_Ali.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\JabeeraliBankapur\\Desktop\\VISUAL STUDIO\\OOPs Codes_Jabeer_Ali\\OOPs Codes_Jabeer_Ali\\OOPs Codes_Jabeer_Ali.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JabeeraliBankapur\\Desktop\\VISUAL STUDIO\\OOPs Codes_Jabeer_Ali\\OOPs Codes_Jabeer_Ali\\OOPs Codes_Jabeer_Ali.csproj",
+        "projectName": "OOPs Codes_Jabeer_Ali",
+        "projectPath": "C:\\Users\\JabeeraliBankapur\\Desktop\\VISUAL STUDIO\\OOPs Codes_Jabeer_Ali\\OOPs Codes_Jabeer_Ali\\OOPs Codes_Jabeer_Ali.csproj",
+        "packagesPath": "C:\\Users\\JabeeraliBankapur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JabeeraliBankapur\\Desktop\\VISUAL STUDIO\\OOPs Codes_Jabeer_Ali\\OOPs Codes_Jabeer_Ali\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\JabeeraliBankapur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

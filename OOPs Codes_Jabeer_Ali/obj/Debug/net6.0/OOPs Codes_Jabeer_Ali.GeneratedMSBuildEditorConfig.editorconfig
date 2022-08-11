@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = OOPs_Codes_Jabeer_Ali
+build_property.ProjectDir = C:\Users\JabeeraliBankapur\Desktop\VISUAL STUDIO\OOPs Codes_Jabeer_Ali\OOPs Codes_Jabeer_Ali\
